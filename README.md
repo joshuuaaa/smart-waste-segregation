@@ -4,6 +4,19 @@ An IoT-based intelligent waste segregation system using ESP32-CAM, deep learning
 
 ---
 
+## 🌟 Features
+
+- Real-time image capture using **ESP32-CAM**
+- **CNN-based waste classification model** (Plastic, Metal, Paper, Others)
+- **Automated waste sorting** using a **360° continuous rotation servo motor**
+- **Ultrasonic sensor** to detect presence of waste and monitor bin fill-level
+- Flask-based backend for model inference and device communication
+- Optional web interface for manual image upload and testing
+
+  
+---
+
+
 ## 🚀 Project Overview
 
 This project aims to build a smart dustbin that:
